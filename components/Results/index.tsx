@@ -6,9 +6,7 @@ const Results = ({ answer }: any) => {
       {answer !== null &&
         answer.map((value: any, index: number) => (
           <div key={index}>
-            <h2>
-              Câu {index}. {value.question}
-            </h2>
+            <h2>{value.question}</h2>
             <p>
               <strong>Trả lời:</strong> <i>{value.answer}</i>
             </p>

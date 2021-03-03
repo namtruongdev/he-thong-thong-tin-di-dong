@@ -1,14 +1,199 @@
 [
   {
-    "question": "Tôi là ai?",
-    "answer": "Trường"
+    "question": "1. GSM là thế hệ thứ mấy của mạng di động?",
+    "answer": "2G"
   },
   {
-    "question": "Bạn là ai?",
-    "answer": "Linh"
+    "question": "2. Tín hiệu truyền giữa MS (Mobile Station) và BTS (Base Transceiver Station) là loại?",
+    "answer": "Số (Digital)"
   },
   {
-    "question": "Bạn bao nhiêu tuổi?",
-    "answer": "12"
+    "question": "3. GSM là viết tắt của?",
+    "answer": "Global System for Mobile Communication"
+  },
+  {
+    "question": "4. GSM được phát triển bởi?",
+    "answer": "Europe"
+  },
+  {
+    "question": "5.Chọn các dải tần sử dụng cho mạng GSM?",
+    "answer": "900MHz, 1800MHz, 850, 1900MHz"
+  },
+  {
+    "question": "6.Loại chuyển mạch được dùng trong mạng GSM?",
+    "answer": "Chuyển mạch kênh (Circuit Switching) và Chuyển mạch gói (Packet Switching)"
+  },
+  {
+    "question": "7.Mạng tế bào thay thế nhiều bộ phát công suất thấp thành một bộ phát công suất cao?",
+    "answer": "Sai"
+  },
+  {
+    "question": "8.Khái niệm tế bào (Cell) trong hệ thống di động số tế bào là?",
+    "answer": "Vùng diện tích địa lý nhỏ"
+  },
+  {
+    "question": "9.Tái sử dụng tần số (Frequency Reuse) là gì?",
+    "answer": "Quá trình lựa chọn và phân bổ kênh vô tuyến"
+  },
+  {
+    "question": "10. Hình dạng nào sau đây là hình dạng tế bào trong mạng di động được sử dụng phổ biến trong tính toán, tối ưu?",
+    "answer": "Hình lục giác"
+  },
+  {
+    "question": "11.Tại sao hình dạng của các cell không phải là tròn?",
+    "answer": "Các vùng bị chồng chéo lên nhau"
+  },
+  {
+    "question": "12.Nguyên nhân chính của hình dạng cell không phải là hình vuông hay tam giác?",
+    "answer": "Diện tích lớn nhất"
+  },
+  {
+    "question": "13.Trong hệ thống di động số tế bào, nếu có N cell và mỗi cell có k kênh vô tuyến. Tổng số kênh vô tuyến S là?",
+    "answer": "S=k*N"
+  },
+  {
+    "question": "14.Khái niệm cụm (cluster) trong hệ thống di động số tế bào?",
+    "answer": "Một nhóm các cell"
+  },
+  {
+    "question": "15.Dung lượng của hệ thống di động số tế bào tỉ lệ thuận với?",
+    "answer": "Số cụm được lặp lại"
+  },
+  {
+    "question": "16. Phổ tần 30MHz được cấp phát cho hệ thống đi động số tế bào sử dụng 2 kênh thoại đơn 25kHz truyền song công. Số kênh trong mỗi cell khi hệ số tái sử dụng tần số là 4?",
+    "answer": "150 kênh"
+  },
+  {
+    "question": "17. Đâu là nguồn gây nhiễu trong hệ thống di động tế bào?",
+    "answer": "Các trạm gốc trong các cụm khác nhau"
+  },
+  {
+    "question": "18.Nhiễu trong các kênh thoại gây ra?",
+    "answer": "Nhiễu xuyên âm (Cross talk)"
+  },
+  {
+    "question": "19.Nhiễu trong kênh điều khiển dẫn tới",
+    "answer": "Nghẽn mạch (Blocked Call)"
+  },
+  {
+    "question": "20.Các cell đồng kênh (co-channel cell) là gì",
+    "answer": "Các cell cùng tần số"
+  },
+  {
+    "question": "21.Nhiễu đồng kênh là hàm số của?",
+    "answer": "Bán kính của cell"
+  },
+  {
+    "question": "22.Hệ số tái sử dụng đồng kênh được định nghĩa?",
+    "answer": "Q=D/R"
+  },
+  {
+    "question": "23.Tỉ số đồng kênh về mặt kích thước cụm được xác định",
+    "answer": "Căn(3N)"
+  },
+  {
+    "question": "24.Nhiễu kênh lân cận xảy ra do?",
+    "answer": "Bộ lọc tần số của các máy thu không hoàn hảo"
+  },
+  {
+    "question": "25.Hiện tượng Fading (Pha đinh) do nhiễu?",
+    "answer": "Đúng"
+  },
+  {
+    "question": "26.Hiệu ứng doppler liên quan đến?",
+    "answer": "Tốc độ chuyển động tương đối của MS với BTS"
+  },
+  {
+    "question": "27.Số người dùng hay số kênh thoại hỗ trợ cho mỗi kênh GSM 200kHz?",
+    "answer": "8"
+  },
+  {
+    "question": "28.Một trong những nhược điểm của GSM?",
+    "answer": "Tốc độ internet giới hạn"
+  },
+  {
+    "question": "29.GSM ban đầu có tên là?",
+    "answer": "Group Special Mobile"
+  },
+  {
+    "question": "30.2G CDMA, IS-95, được đề xuất ban đầu bởi công ty?",
+    "answer": "Qualcomm"
+  },
+  {
+    "question": "31.Chuẩn 2G được sử dụng tại Nhật Bản?",
+    "answer": "PDC"
+  },
+  {
+    "question": "32.Công nghệ 2G GSM sử dụng phân chia tần số sóng mang? ",
+    "answer": "200 kHz"
+  },
+  {
+    "question": "33.GoS có ý nghĩa?",
+    "answer": "Số cuộc gọi bị chặn"
+  },
+  {
+    "question": "34.Thời gian trung bình của 1 cuộc gọi được gọi là?",
+    "answer": "Holding time"
+  },
+  {
+    "question": "35.Số cuộc gọi trung bình trong một đơn vị thời gian được định nghĩa là?",
+    "answer": "Tỉ lệ yêu cầu (Request Rate)"
+  },
+  {
+    "question": "36.Công thức xác định tỉ lệ cuộc gọi bị nghẽn mạch (Blocked Call) là?",
+    "answer": "Erlang B"
+  },
+  {
+    "question": "37.Kỹ thuật nào sau đây sử dụng anten định hướng để kiểm soát nhiễu?",
+    "answer": "Sectoring"
+  },
+  {
+    "question": "38.Kỹ thuật nào sau đây sử dụng cách tăng số lượng trạm gốc để tăng dung lượng hệ thống?",
+    "answer": "Tách cell (Cell Splitting)"
+  },
+  {
+    "question": "39.Mô hình truyền sóng phạm vi hẹp còn được biết là?",
+
+    "answer": "Mô hình Pha đinh (Fading)"
+  },
+  {
+    "question": "40.Quan hệ giữa bước sóng và tần số sóng mang?",
+    "answer": "λ=c/f"
+  },
+  {
+    "question": "41.EIRP là từ viết tắt của?",
+    "answer": "Effective isotropic radiated power"
+  },
+  {
+    "question": "42.Băng thông mức nửa công suất được gọi là?",
+    "answer": "Băng thông mức 3dB"
+  },
+  {
+    "question": "43.Trong hệ thống thông tin số, để tăng miễn nhiễm nhiễu, cần tăng?",
+    "answer": "Công suất tín hiệu phát"
+  },
+  {
+    "question": "44.Hệ thống thông tin số sử dụng kỹ thuật điều chế tương tự. Đúng hay Sai?",
+    "answer": "Sai"
+  },
+  {
+    "question": "45.AM là kỹ thuật điều chế thông số nào của sóng mang?",
+    "answer": "Biên độ"
+  },
+  {
+    "question": "46.FM là kỹ thuật điều chế thông số nào của sóng mang",
+    "answer": "Tần số"
+  },
+  {
+    "question": "47.Kỹ thuật đa truy nhập nào được dùng với hệ thống di động số tế bào thứ 2?",
+    "answer": "TDMA/FDD and CDMA/FDD"
+  },
+  {
+    "question": "48.Đâu không phải là ưu điểm của kỹ thuật sử dụng lại tần số?",
+    "answer": "Số trạm gốc giảm"
+  },
+  {
+    "question": "49.Quá trình xử lý thay đổi kênh liên quan đến kết nối giữa MS từ BTS A sang BTS B được gọi là?",
+    "answer": "Handoff"
   }
 ]
